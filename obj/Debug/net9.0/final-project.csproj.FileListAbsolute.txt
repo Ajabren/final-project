@@ -1,0 +1,15 @@
+C:\Users\anton\my-code-dir\final-project\bin\Debug\net9.0\final-project.exe
+C:\Users\anton\my-code-dir\final-project\bin\Debug\net9.0\final-project.deps.json
+C:\Users\anton\my-code-dir\final-project\bin\Debug\net9.0\final-project.runtimeconfig.json
+C:\Users\anton\my-code-dir\final-project\bin\Debug\net9.0\final-project.dll
+C:\Users\anton\my-code-dir\final-project\bin\Debug\net9.0\final-project.pdb
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.AssemblyInfoInputs.cache
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.AssemblyInfo.cs
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.csproj.CoreCompileInputs.cache
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.sourcelink.json
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.dll
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\refint\final-project.dll
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.pdb
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\final-project.genruntimeconfig.cache
+C:\Users\anton\my-code-dir\final-project\obj\Debug\net9.0\ref\final-project.dll
